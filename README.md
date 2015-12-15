@@ -1,5 +1,15 @@
 # CAWS Data Mapper Creater Program Thing
 
+Only works with python3
+
+Run this to get the necessary packages
+
+```
+pip install openpyxl
+```
+
+---
+
 Steps:
 
 - Import an excel file (the bigger your excel file, the more space you will need)
